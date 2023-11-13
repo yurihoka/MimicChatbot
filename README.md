@@ -1,0 +1,2 @@
+# MimicChatbot
+Mimic Slack Chatbot
